@@ -12,10 +12,6 @@ The pipeline covers everything from **data preprocessing** and **feature extract
 ```
 ├── data/
 │   └── gtzan/           # Dataset (GTZAN)
-├── models/              # Saved trained models
-├── results/             # Evaluation outputs (metrics, confusion matrix, etc.)
-├── notebooks/           # Jupyter notebooks for exploration
-├── scripts/             # Helper scripts
 ├── main.py              # Main training & evaluation script
 └── README.md            # Project documentation
 ```
