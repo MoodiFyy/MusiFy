@@ -9,9 +9,7 @@ The pipeline covers everything from **data preprocessing** and **feature extract
 
 ## Project Structure
 
-```
-├── data/
-│   └── gtzan/           # Dataset (GTZAN)
+```      
 ├── main.py              # Main training & evaluation script
 └── README.md            # Project documentation
 ```
